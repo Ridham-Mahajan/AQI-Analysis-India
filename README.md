@@ -7,8 +7,8 @@ This repository contains a comprehensive exploratory data analysis of air pollut
 ## 📂 Dataset Information
 
 - **Source**: OpenDataBay  
-- **Title**: Air Pollution Data Across India (2015–2020)  
-- **Link**: [OpenDataBay - Air Pollution Dataset](https://www.opendatabay.com/data/healthcare/2e639cce-8cbd-4479-b9fa-acc986b9b7f1)  
+- **Title**: Air Quality Index Data for India 
+- **Link**: [OpenDataBay - Air Pollution Dataset](https://www.opendatabay.com/data/healthcare/2e639cce-8cbd-4479-b9fa-acc986b9b7f1)  (city_day.csv)
 - **Description**: Contains daily air pollution measurements from CPCB across multiple Indian cities. Includes pollutants such as `PM2.5`, `PM10`, `NO`, `NO₂`, `NOx`, `SO₂`, `CO`, `O₃`, `Benzene`, `Toluene`, `NH₃`, and `AQI`.
 
 ---
